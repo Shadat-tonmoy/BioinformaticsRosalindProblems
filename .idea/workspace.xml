@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab51f2dd-a5fb-482c-920c-d1e0c2583319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 04/Subtask1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4f.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,48 +22,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask5.py">
+        <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="50" lean-forward="true" selection-end-line="20" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="15" lean-forward="true" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="26" lean-forward="true" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="27" selection-end-line="15" />
+            <state relative-caret-position="504">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -105,6 +83,16 @@
         <option value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask3.py" />
         <option value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask4.py" />
         <option value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask5.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4a.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4f.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4j.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4c.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4k.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4b.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4d.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4h.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5a.py" />
+        <option value="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5b.py" />
       </list>
     </option>
   </component>
@@ -121,6 +109,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,11 +128,15 @@
               <item name="Lab Tasks" type="462c0819:PsiDirectoryNode" />
               <item name="Day - 05" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BioInformatics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BioInformatics" type="462c0819:PsiDirectoryNode" />
+              <item name="Rosalind Problems" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,8 +154,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Subtask5">
-    <configuration name="Subtask1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ba5b">
+    <configuration name="ba4c" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BioInformatics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Tasks/Day - 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subtask2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ba4j" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BioInformatics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Tasks/Day - 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4j.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subtask3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ba4k" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BioInformatics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Tasks/Day - 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4k.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subtask4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ba5a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BioInformatics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Tasks/Day - 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rosalind Problems/Chapter 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subtask5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ba5b" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BioInformatics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Tasks/Day - 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rosalind Problems/Chapter 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Subtask5" />
-        <item itemvalue="Python.Subtask4" />
-        <item itemvalue="Python.Subtask3" />
-        <item itemvalue="Python.Subtask2" />
-        <item itemvalue="Python.Subtask1 (1)" />
+        <item itemvalue="Python.ba5b" />
+        <item itemvalue="Python.ba5a" />
+        <item itemvalue="Python.ba4k" />
+        <item itemvalue="Python.ba4c" />
+        <item itemvalue="Python.ba4j" />
       </list>
     </recent_temporary>
   </component>
@@ -293,20 +286,20 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24944155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.70846903" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996277" weight="0.45439738" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" weight="0.70846903" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,10 +406,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/count_peptides.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-end-line="9" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -430,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="26" lean-forward="true" selection-end-line="23" />
+          <caret line="13" column="26" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -444,7 +442,77 @@
     <entry file="file://$PROJECT_DIR$/Lab Tasks/Day - 05/Subtask5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="50" lean-forward="true" selection-end-line="20" selection-end-column="50" />
+          <caret line="20" column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="3" selection-end-line="73" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="16" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4j.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="195" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4k.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="30" column="16" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 4/ba4h.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="45" column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rosalind Problems/Chapter 5/ba5b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
